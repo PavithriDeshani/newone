@@ -27,4 +27,4 @@ You can use the [My Personal Information](file:///C:/Users/A%20C%20E%20R/Desktop
 Name - Dilki
 Birthday 1998.09.09
 
-[pdf](Resume assignment it.pdf)
+
