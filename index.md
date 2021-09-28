@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+## Dilki Nipuni Rathnayaka
 
-You can use the [editor on GitHub](https://github.com/PavithriDeshani/newone/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ready to accept challenge in any situation. Resposible and ambitious person. Ability work in high pressure. Hardworking and bringing forth a positive attitude.Effective communicational and interpersonal skills. I am a good team player.
 
-### Markdown
+You can use the [My Personal Information](file:///C:/Users/A%20C%20E%20R/Desktop/Dilki/Resume%20assignment%20it.pdf) for PDF version.
+
+
+### 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
